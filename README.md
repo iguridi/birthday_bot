@@ -1,2 +1,2 @@
 # birthday_bot
-Birt
+Telegram bot to remid yourself of the birthdays stored on your contacts
